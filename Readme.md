@@ -1,4 +1,4 @@
-The code imports the words from the tweets.txt file which is not uploaded, but if needed will be added in order to showcase the implementation.
-So basically, the main function opens the tweets.txt file and reads it simultaneosly performs the Calculate_profanity function.
-Finally, the code gives the profanity degree for the tweet words. 
+The code imports the words from the tweets.txt file.
+The main() function opens the tweets.txt file and reads it, simultaneosly performing the Calculate_profanity() function.
+Finally, the code gives the profanity degree for the tweet words in the tweets.txt. 
 Thank you! Hope you liked its simplicity and beauty.
